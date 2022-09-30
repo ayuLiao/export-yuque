@@ -1,0 +1,4 @@
+venv
+pandoc-2.19.2
+docs
+__pycache__
